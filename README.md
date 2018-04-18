@@ -7,4 +7,4 @@
 <img src="https://img.shields.io/badge/language-Objective--C-green.svg">
 <img src="https://img.shields.io/badge/language-Swift-ff69b4.svg">
 </p>
-###[NSTimer的那些事儿](./Articles/NSTimer.md)
+[NSTimer的那些事儿](./Articles/NSTimer.md)
